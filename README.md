@@ -4,6 +4,8 @@ Software de validador para camiones de transporte urbano para la empresa Urban d
 **Autor: Ernesto Lomar**
 
 Linea cronológica:
+- v2.55:
+  - Se modifico la tarifa '51542' de $16 a $14 en precio normal.
 - v2.54:
   - Nueva matriz tarifaria donde se aumento $2 en tarifa normal y preferencial de servicios y transbordos.
   - Se aumento 10,000 al id de matriz tarifaria para que ahora se base en los 50,000.
